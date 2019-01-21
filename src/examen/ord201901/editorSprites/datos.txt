@@ -1,0 +1,16 @@
+Tarea 4
+
+Si se aplica sobre el directorio de prueba una vez descomprimido:
+\sprites-pruebaEx
+(en ALUD, fichero sprites-pruebaEx.zip)
+
+El resultado debe ser
+Número de ficheros procesados: 52
+
+Y los ficheros que se cargan deberían ser:
+20 de \sprites-pruebaEx\adventurergirl\png
+ (Dead (1) a Idle (9))
+20 de \freeknight\png
+ (Attack (1) a Walk (9))
+10 de \jackolantern\png
+ (Dead (1) a Dead (9))

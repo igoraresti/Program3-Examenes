@@ -1,0 +1,58 @@
+//////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////
+Salida para la tarea 2 (mentoras con aviso):
+
+klttu@gmail.com --> [25/10/2018 - 8, 15/11/2018 - 8]
+aocb6@gmail.com --> [26/10/2018 - 13, 11/06/2018 - 13, 16/11/2018 - 13]
+eg@ormazabal.com --> [05/11/2018 - 13, 29/11/2018 - 13]
+mruxa@gmail.com --> [13/11/2018 - 9, 16/10/2018 - 10, 06/11/2018 - 10]
+ngrrla@yahoo.es --> [18/10/2018 - 14, 08/11/2018 - 14]
+iunte@gmail.com --> [15/10/2018 - 17, 17/10/2018 - 7, 22/10/2018 - 17, 24/10/2018 - 8, 30/10/2018 – 17, 31/10/2018 - 9, 05/11/2018 - 17, 07/11/2018 - 8]. 
+
+
+//////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////
+Salida para la tarea 3 (centros con aviso):
+
+Aranbizkarra ikastola - 3.0
+  Sesión 1: 9 estudiantes.
+  Sesión 2: 8 estudiantes.
+
+Ntra. Sra. del Carmen - 3.0
+  Sesión 1: 14 estudiantes.
+
+CEIP Mina del Morro - 3.0
+  Sesión 1: 6 estudiantes.
+
+Mujika Eskola - 3.0
+  Sesión 1: 7 estudiantes.
+
+Gernika BHI - 3.3333333333333335
+  Sesión 1: 10 estudiantes.
+  Sesión 3: 10 estudiantes.
+  Sesión 4: 9 estudiantes.
+
+Calasanz - 3.5
+  Sesión 1: 12 estudiantes.
+  Sesión 2: 12 estudiantes.
+
+ZAMUDIO HLHI - 3.6
+  Sesión 1: 4 estudiantes.
+  Sesión 2: 8 estudiantes.
+  Sesión 3: 8 estudiantes.
+
+Vda. de Epalza - 3.6666666666666665
+  Sesión 1: 12 estudiantes.
+  Sesión 2: 13 estudiantes.
+  Sesión 3: 11 estudiantes.
+
+ALDATZE - SANT MARIA DE LA PROVIDENCIA - 3.75
+  Sesión 1: 11 estudiantes.
+  Sesión 2: 11 estudiantes.
+  Sesión 3: 11 estudiantes.
+  Sesión 4: 11 estudiantes.
+
+SolokoetxeBHI - 3.857142857142857
+  Sesión 1: 20 estudiantes.
+  Sesión 2: 12 estudiantes.
+  Sesión 3: 12 estudiantes.

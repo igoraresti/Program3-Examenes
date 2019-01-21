@@ -1,0 +1,25 @@
+Preguntas sobre Android (contestar al final en la zona de respuestas).
+Pueden ser válidas todas las respuestas, una o ninguna.
+
+PREGUNTAS:
+
+1.- ¿Qué es lo que NO incluye Android de forma nativa?
+a) Un gestor de base de datos
+b) OpenGL
+c) Ejecución de cualquier fichero .class
+d) Un generador de IU partiendo de ficheros xml
+
+2.- ¿Qué incluye un AVD?
+a) El perfil de hardware al que emula
+b) La configuración que quiera hacer el usuario de ese dispositivo
+c) Un área de almacenamiento
+d) Una máscara con el aspecto visual del dispositivo
+
+3.- Cómo podrías hacer en Android para que la Activity A recoja una información 
+que produce una Activity B que se haya lanzado desde otra Activity A?  Desarrolla.
+
+RESPUESTAS:
+
+1.- 
+2.- 
+3.- 
